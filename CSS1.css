@@ -1,12 +1,12 @@
 body {
-    background-color: yellow;
+    background-color: navy;
     color:black
 }
 table {
         border: 1px solid rgb(53, 6, 0);
         margin: 1px 1px 1px 1px;
     }
-p {color: black
+p {color: white
     
     border: 1px solid rgb(0, 0, 0);
     margin: 50px 1px 1px 1px;
