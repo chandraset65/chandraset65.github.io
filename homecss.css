@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{font-family:'Otomanopee One', sans-serif;
+}
+
+/* nabar */
+nav{
+    display: flex;
+    background-color: hsl(138, 80%, 47%);   
+    justify-content: space-around; 
+    padding: 20px 0;
+    color: hsl(220, 18%, 97%) ;
+      
+}
+
+nav .logo{
+    font-family:'Zen Tokyo Zoo', cursive;
+    letter-spacing: 3px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    width: 40%;
+    justify-content: space-between;
+
+
+}
+nav ul li a {
+    color: hsl(0, 0%, 100%);
+    text-decoration: none ;
+    font-size: 1em;
+
+}
+
+nav ul li a:hover {
+    color:hsl(138, 88%, 49%) ;
+}
